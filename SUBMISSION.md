@@ -1,9 +1,9 @@
 # Submission
 
 ## Candidate
-- **Name:** YOUR NAME
+- **Name:** Satendra Pal
 - **Assignment chosen:** A (Data)
-- **Time spent (honest estimate):** replace with your own hours
+- **Time spent (honest estimate):** 4 Hours
 
 ## How to run
 
